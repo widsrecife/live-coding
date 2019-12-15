@@ -3,10 +3,12 @@ Visando estimular a nossa participação no próximo Datathon do Women in Data S
 
 As ferramentas e tecnologias utilizadas serão Jupyter Notebook no Google Colab, Python como a linguagem de programação, Pandas para manipular os dados e o Scikit-learn para treinar os modelos de Aprendizagem de Máquina.
 
-### Sessões
+## Sessões
 | Sessão       | Data           | Slides | Link para o Colab  |
 | :----------------- | :------------- | :-----| :----- |
 | 01      | 14/12/2019 | [Sessão 01](Sess%C3%A3o%2001/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2001%20%5Bv1.0%5D.pdf) | https://colab.research.google.com/drive/1Gz4YQAJ6YHOOBzq6KCRZvmFr6l4W_-sr|
+
+***
 
 ### Como copiar um notebook para sua conta e rodar o código
 1. Acessar o link do notebook
