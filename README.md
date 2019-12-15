@@ -13,6 +13,7 @@ As ferramentas e tecnologias utilizadas serão Jupyter Notebook no Google Colab,
 2. Ir em File > Save a copy in Drive...
 
 ![Salvar notebook no google drive](imagens/copiar_notebook_para_drive.png)
+
 3. Uma nova aba irá abrir com a cópia do notebook salva no seu Google Drive, lá você já pode "dar play" em cada célular para rodar o código
 4. Você também pode ver todos os notebooks salvos no seu Drive na pasta Colab Notebooks no https://drive.google.com/
 ![Salvar notebook no google drive](imagens/ver_notebooks_salvos.png)
