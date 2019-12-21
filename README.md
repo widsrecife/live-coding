@@ -7,6 +7,7 @@ As ferramentas e tecnologias utilizadas serão Jupyter Notebook no Google Colab,
 | Sessão       | Data           | Slides | Link para o Colab  |
 | :----------------- | :------------- | :-----| :----- |
 | 01      | 14/12/2019 | [Sessão 01](Sess%C3%A3o%2001/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2001%20%5Bv1.0%5D.pdf) | https://colab.research.google.com/drive/1Gz4YQAJ6YHOOBzq6KCRZvmFr6l4W_-sr|
+| 02     | 21/12/2019 | [Sessão 02](Sessão%2002/WiDS%20Live%20Coding%20-%20Sessão%2002%20%5Bv1.0%5D.pdf) | https://colab.research.google.com/drive/1DSa7qd7z35tObSBxthiM__B6MQlS9XKX|
 
 ***
 
@@ -16,6 +17,6 @@ As ferramentas e tecnologias utilizadas serão Jupyter Notebook no Google Colab,
 
 ![Salvar notebook no google drive](imagens/copiar_notebook_para_drive.png)
 
-3. Uma nova aba irá abrir com a cópia do notebook salva no seu Google Drive, lá você já pode "dar play" em cada célular para rodar o código
+3. Uma nova aba irá abrir com a cópia do notebook salva no seu Google Drive, lá você já pode "dar play" em cada célula para rodar o código
 4. Você também pode ver todos os notebooks salvos no seu Drive na pasta Colab Notebooks no https://drive.google.com/
 ![Salvar notebook no google drive](imagens/ver_notebooks_salvos.png)
