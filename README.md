@@ -10,6 +10,7 @@ As ferramentas e tecnologias utilizadas serão Jupyter Notebook no Google Colab,
 | 02     | 21/12/2019 | [Sessão 02](Sessão%2002/WiDS%20Live%20Coding%20-%20Sessão%2002%20%5Bv1.0%5D.pdf) | https://colab.research.google.com/drive/1DSa7qd7z35tObSBxthiM__B6MQlS9XKX|
 | 03     | 04/01/2020 | [Sessão 03](Sess%C3%A3o%2003/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2003%20%5Bv1.0%5D.pdf) | https://colab.research.google.com/drive/1jKUDZG4dwW9IPwvNXJ-FwI-9Dr5_F5td|
 | 04     | 11/01/2020 | [Sessão 04](Sess%C3%A3o%2004/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2004%20%5Bv1.0%5D.pdf) | https://colab.research.google.com/drive/1RjtMo80pfy-FziRVPat5DfqLyBeLA0aF|
+| 05     | 18/01/2020 | [Sessão 05](Sess%C3%A3o%2005/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2005%20%5Bv1.0%5D.pdf) | https://colab.research.google.com/drive/1spEkvWgcL0jNKTZ05QpV2fUwRA2MeCOk|
 
 ***
 
