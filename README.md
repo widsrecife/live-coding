@@ -15,7 +15,8 @@ As ferramentas e tecnologias utilizadas serão
 | 03     | 04/01/2020 | [Sessão 03](Sess%C3%A3o%2003/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2003%20%5Bv1.0%5D.pdf) | Métricas e formas de avaliar um modelo |[Link do notebook](https://colab.research.google.com/drive/1jKUDZG4dwW9IPwvNXJ-FwI-9Dr5_F5td)| [Link do vídeo](https://www.youtube.com/watch?v=gwoF8yVgqHw) |
 | 04     | 11/01/2020 | [Sessão 04](Sess%C3%A3o%2004/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2004%20%5Bv1.0%5D.pdf) | Viés e variância | [Link do notebook](https://colab.research.google.com/drive/1RjtMo80pfy-FziRVPat5DfqLyBeLA0aF) | [Link do vídeo](https://www.youtube.com/watch?v=ZEvP-EX-l_s) |
 | 05     | 18/01/2020 | [Sessão 05](Sess%C3%A3o%2005/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2005%20%5Bv1.0%5D.pdf) | Visualização de dados com o Seaborn| [Link do notebook](https://colab.research.google.com/drive/1spEkvWgcL0jNKTZ05QpV2fUwRA2MeCOk) | [Link do vídeo](https://www.youtube.com/watch?v=LQVURugO9-k) |
-| 06     | 25/01/2020 | [Sessão 06](Sessão%2006/WiDS%20Live%20Coding%20-%20Sessão%2006.pdf) | XGBoost| [Link do notebook](https://colab.research.google.com/drive/1SUMRvmzJkXryS4U75lt7_AnBmovsbK7C) | [Link do vídeo](https://youtu.be/Bgf677u-yc8) |
+| 06     | 25/01/2020 | [Sessão 06](Sessão%2006/WiDS%20Live%20Coding%20-%20Sessão%2006.pdf) | XGBoost | [Link do notebook](https://colab.research.google.com/drive/1SUMRvmzJkXryS4U75lt7_AnBmovsbK7C) | [Link do vídeo](https://youtu.be/Bgf677u-yc8) |
+| 07     | 01/02/2020 | [Sessão 07](Sessão%2007/WiDS%20Live%20Coding%20-%20Sessão%2007.pdf) | Pipelines do Scikit-learn | [Link do notebook](https://colab.research.google.com/drive/1J_BuJNYdRwQXbXrmGr5HF_oIWDn0_JLi) | [Link do vídeo](https://www.youtube.com/watch?v=CJJ9ObvRkCE) |
 
 ***
 
