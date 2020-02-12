@@ -1,7 +1,7 @@
 ## Live codings de introdução a Data Science! :fire:
 Visando estimular a nossa participação no [Wids Datathon edição 2020](https://www.kaggle.com/c/widsdatathon2020/) promoveremos sessões semanais de live coding para aprender sobre ferramentas e tópicos de Data Science.  
 
-As ferramentas e tecnologias utilizadas serão 
+As ferramentas e tecnologias utilizadas serão: 
 * Jupyter Notebook no Google Colab
 * Python como a linguagem de programação
 * Pandas para manipular os dados
@@ -16,7 +16,8 @@ As ferramentas e tecnologias utilizadas serão
 | 04     | 11/01/2020 | [Sessão 04](Sess%C3%A3o%2004/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2004%20%5Bv1.0%5D.pdf) | Viés e variância | [Link do notebook](https://colab.research.google.com/drive/1RjtMo80pfy-FziRVPat5DfqLyBeLA0aF) | [Link do vídeo](https://www.youtube.com/watch?v=ZEvP-EX-l_s) |
 | 05     | 18/01/2020 | [Sessão 05](Sess%C3%A3o%2005/WiDS%20Live%20Coding%20-%20Sess%C3%A3o%2005%20%5Bv1.0%5D.pdf) | Visualização de dados com o Seaborn| [Link do notebook](https://colab.research.google.com/drive/1spEkvWgcL0jNKTZ05QpV2fUwRA2MeCOk) | [Link do vídeo](https://www.youtube.com/watch?v=LQVURugO9-k) |
 | 06     | 25/01/2020 | [Sessão 06](Sessão%2006/WiDS%20Live%20Coding%20-%20Sessão%2006.pdf) | XGBoost | [Link do notebook](https://colab.research.google.com/drive/1SUMRvmzJkXryS4U75lt7_AnBmovsbK7C) | [Link do vídeo](https://youtu.be/Bgf677u-yc8) |
-| 07     | 01/02/2020 | [Sessão 07](Sessão%2007/WiDS%20Live%20Coding%20-%20Sessão%2007.pdf) | Pipelines do Scikit-learn | [Link do notebook](https://colab.research.google.com/drive/1J_BuJNYdRwQXbXrmGr5HF_oIWDn0_JLi) | [Link do vídeo](https://www.youtube.com/watch?v=CJJ9ObvRkCE) |
+| 07     | 01/02/2020 | [Sessão 07](Sessão%2007/WiDS%20Live%20Coding%20-%20Sessão%2007%20%5Bv1.0%5D.pdf) | Pipelines do Scikit-learn | [Link do notebook](https://colab.research.google.com/drive/1J_BuJNYdRwQXbXrmGr5HF_oIWDn0_JLi) | [Link do vídeo](https://www.youtube.com/watch?v=CJJ9ObvRkCE) |
+| 07     | 01/02/2020 | [Sessão 08](Sessão%2008/WiDS%20Live%20Coding%20-%20Sessão%2008%20%5Bv1.0%5D.pdf) | Feature engineering | [Link do notebook](https://colab.research.google.com/drive/19GAfwDSRjLtVMKNcAT23dLHkU7KsIvGP) | [Link do vídeo](https://www.youtube.com/watch?v=T-xpk-wAFpE) |
 
 ***
 
